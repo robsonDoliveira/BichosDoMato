@@ -75,45 +75,138 @@
     "DescricaoBichos_M": "Saiba mais sobre a aranha Armadeira, características reprodução, alimentação, hábitat, tamanho, hábitos, comportamento",
     "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/aranha_armadeira.jpg",
     "LinkBichos_M": "https://www.todabiologia.com/zoologia/aranha_armadeira.htm"
+  },
+  {
+    "idBichos_M": 12,
+    "NomeBichos_M": "Aranhas Venenosas",
+    "DescricaoBichos_M": "O que são, principais espécies de aranhas venenosas, consequência da picada e problemas de saúde",
+    "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/aranha_marrom.jpg",
+    "LinkBichos_M": "https://www.todabiologia.com/zoologia/aranhas_venenosas.htm"
+  },
+  {
+    "idBichos_M": 13,
+    "NomeBichos_M": "Exemplos de Aracnídeos",
+    "DescricaoBichos_M": "Os Aracnídeos mais conhecidos do reino animal, lista de animais Aracnídeos, aranhas",
+    "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/aracnideo.jpg",
+    "LinkBichos_M": "https://www.todabiologia.com/zoologia/exemplos_aracnideos.htm"
+  },
+  {
+    "idBichos_M": 14,
+    "NomeBichos_M": "Tarântula",
+    "DescricaoBichos_M": "Saiba mais sobre a aranha caranguejeira ou tarântula, características reprodução, alimentação, hábitat, tamanho, hábitos, comportamento",
+    "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/aranha_caranguejeira.jpg",
+    "LinkBichos_M": "https://www.todabiologia.com/zoologia/aranha_caranguejeira.htm"
+  },
+  {
+    "idBichos_M": 15,
+    "NomeBichos_M": "Fotos de aranhas",
+    "DescricaoBichos_M": "Fotos de várias espécies de aranhas, classificação científica, aracnídeos, aranhas venenosas",
+    "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/aranha_tarantula.jpg",
+    "LinkBichos_M": "https://www.todabiologia.com/zoologia/fotos_aranhas.htm"
+  },
+  {
+    "idBichos_M": 16,
+    "NomeBichos_M": "Aranhas",
+    "DescricaoBichos_M": "As aranhas são os aracnídeos mais numerosos.",
+    "ImagemBicho_M": "https://cdn.portalsaofrancisco.com.br/wp-content/uploads/2016/01/aaranha8.jpg",
+    "LinkBichos_M": "https://www.portalsaofrancisco.com.br/biologia/aranhas"
+  },
+  {
+    "idBichos_M": 17,
+    "NomeBichos_M": "Anatomia das Aranhas",
+    "DescricaoBichos_M": "Todas as Aranhas possuem quatro pares de patas, um par de pedipalpos e um par de quelíceras inseridos no prossoma.",
+    "ImagemBicho_M": "https://cdn.portalsaofrancisco.com.br/wp-content/uploads/2016/01/anatomia-das-aranhas-2.jpg",
+    "LinkBichos_M": "https://www.portalsaofrancisco.com.br/biologia/anatomia-das-aranhas"
+  },
+  {
+    "idBichos_M": 18,
+    "NomeBichos_M": "Aranhas Venenosas 2",
+    "DescricaoBichos_M": "Todas as aranhas têm presas! E, sim, elas quase todas têm veneno.",
+    "ImagemBicho_M": "https://cdn.portalsaofrancisco.com.br/wp-content/uploads/2016/01/aranhas-venenosas-32.jpg",
+    "LinkBichos_M": "https://www.portalsaofrancisco.com.br/biologia/aranhas-venenosas"
+  },
+  {
+    "idBichos_M": 19,
+    "NomeBichos_M": "Teia de Aranha",
+    "DescricaoBichos_M": "O diâmetro médio de um fio de seda em uma teia de aranha esférica é de cerca de 0,15µm.",
+    "ImagemBicho_M": "https://cdn.portalsaofrancisco.com.br/wp-content/uploads/2016/01/teia-de-aranha-55.jpg",
+    "LinkBichos_M": "https://www.portalsaofrancisco.com.br/biologia/teia-de-aranha"
+  },
+  {
+    "idBichos_M": 20,
+    "NomeBichos_M": "Tipos de Aranha",
+    "DescricaoBichos_M": "Você sabia que existem mais de 50.000 espécies de aranhas encontradas no mundo?",
+    "ImagemBicho_M": "https://cdn.portalsaofrancisco.com.br/wp-content/uploads/2016/01/tipos-de-aranha-64.jpg",
+    "LinkBichos_M": "https://www.portalsaofrancisco.com.br/biologia/tipos-de-aranha"
+  },
+  {
+    "idBichos_M": 21,
+    "NomeBichos_M": "Veneno da Aranha",
+    "DescricaoBichos_M": "O veneno da aranha marrom causa alterações na pele e alterações sistêmicas, que podem levar até a morte e recebe o nome de 'Loxoscelismo'.",
+    "ImagemBicho_M": "https://cdn.portalsaofrancisco.com.br/wp-content/uploads/2016/01/veneno-da-aranha-53.jpg",
+    "LinkBichos_M": "https://www.portalsaofrancisco.com.br/biologia/veneno-da-aranha"
+  },
+  {
+    "idBichos_M": 22,
+    "NomeBichos_M": "Tarantulas",
+    "DescricaoBichos_M": "As Tarântulas são caçadoras noturnas e atacam suas presas. Elas comem insetos, besouros e gafanhotos.",
+    "ImagemBicho_M": "https://cdn.portalsaofrancisco.com.br/wp-content/uploads/2016/01/tarantula-4.jpg",
+    "LinkBichos_M": "https://www.portalsaofrancisco.com.br/biologia/tarantula"
+  },
+  {
+    "idBichos_M": 23,
+    "NomeBichos_M": "Cobras e Serpentes",
+    "DescricaoBichos_M": "Tudo sobre cobras.",
+    "ImagemBicho_M": "https://www.cobras.blog.br/wp-content/uploads/2013/10/Jararaca-Ilhoa-tipo.jpg",
+    "LinkBichos_M": "https://www.cobras.blog.br"
+  },
+  {
+    "idBichos_M": 24,
+    "NomeBichos_M": "Escorpiões",
+    "DescricaoBichos_M": "O escorpião possui corpo alongado, formado por um cefalotórax indiviso, articulado com o abdômen em toda a sua extensão.",
+    "ImagemBicho_M": "http://www.ninha.bio.br/biologia/aracnideos/escorpioes.jpg",
+    "LinkBichos_M": "http://www.ninha.bio.br/biologia/escorpioes.html"
+  },
+  {
+    "idBichos_M": 25,
+    "NomeBichos_M": "Ácaros e Carrapatos",
+    "DescricaoBichos_M": "Pequeninhos mesmo, microscópicos, os ácaros têm o corpo compacto e em forma de ovo.",
+    "ImagemBicho_M": "http://www.ninha.bio.br/biologia/aracnideos/acaro4.jpg",
+    "LinkBichos_M": "http://www.ninha.bio.br/biologia/acaros.html"
+  },
+  {
+    "idBichos_M": 26,
+    "NomeBichos_M": "Insetos",
+    "DescricaoBichos_M": "Os insetos são artrópodes do Subfilo Hexapoda, da Classe Insecta.",
+    "ImagemBicho_M": "http://www.ninha.bio.br/biologia/insetos/divisao-corpo.jpg",
+    "LinkBichos_M": "http://www.ninha.bio.br/biologia/insetos.html"
+  },
+  {
+    "idBichos_M": 27,
+    "NomeBichos_M": "Abelhas",
+    "DescricaoBichos_M": "Com três semanas de idade começam a sair para buscar néctar e orientam as outras para prepararem as áreas de alimentação para sua volta.",
+    "ImagemBicho_M": "http://www.ninha.bio.br/biologia/insetos/abelhas/lingua_abelha.jpg",
+    "LinkBichos_M": "http://www.ninha.bio.br/biologia/abelhas.html"
+  },
+  {
+    "idBichos_M": 28,
+    "NomeBichos_M": "Mosquitos - Pernilongos",
+    "DescricaoBichos_M": "O zumbido do pernilongo, que o homem só pode ouvir se estiver perto, é ouvido por outro pernilongo a 30 metros.",
+    "ImagemBicho_M": "http://www.ninha.bio.br/biologia/insetos/outros_insetos/27nov/aedes_egypti.jpg",
+    "LinkBichos_M": "http://www.ninha.bio.br/biologia/pernilongo.html"
+  },
+  {
+    "idBichos_M": 29,
+    "NomeBichos_M": "Barbeiros",
+    "DescricaoBichos_M": "Os barbeiros são insetos conhecidos das populações rurais de várias regiões do Brasil. ",
+    "ImagemBicho_M": "http://www.ninha.bio.br/biologia/insetos/barbeiro/ba.jpg",
+    "LinkBichos_M": "http://www.ninha.bio.br/biologia/barbeiros.html"
+  },
+  {
+    "idBichos_M": 30,
+    "NomeBichos_M": "Vespas e Marimbondos",
+    "DescricaoBichos_M": "Embora não sejam parentes, abelhas e vespas têm estilos de vida semelhantes.",
+    "ImagemBicho_M": "http://www.ninha.bio.br/biologia/insetos/vespas/vespa_joia.jpg",
+    "LinkBichos_M": "http://www.ninha.bio.br/biologia/vespas.html"
   }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-]
+  ]
