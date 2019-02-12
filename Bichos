@@ -5,5 +5,91 @@
     "DescricaoBichos_M": "Saiba mais sobre a vida dos répteis, reprodução, características da espécie, cobras, lagartos, habitat",
     "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/cobra.jpg",
     "LinkBichos_M": "https://www.todabiologia.com/zoologia/repteis.htm"
+  },
+  {
+    "idBichos_M": 2,
+    "NomeBichos_M": "Cobra Jararaca",
+    "DescricaoBichos_M": "Características principais, alimentação, veneno, foto, habitat, serpente, réptil",
+    "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/jararaca.jpg",
+    "LinkBichos_M": "https://www.todabiologia.com/zoologia/cobra_jararaca.htm"
+  },
+  {
+    "idBichos_M": 3,
+    "NomeBichos_M": "Cobra Coral Verdadeira",
+    "DescricaoBichos_M": "Características da cobra coral verdadeira, habitat, alimentação, classificação científica, reprodução, foto, cobra venenosa, curiosidades",
+    "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/cobra_coral_verdadeira.jpg",
+    "LinkBichos_M": "https://www.todabiologia.com/zoologia/cobra_coral_verdadeira.htm"
+  },
+  {
+    "idBichos_M": 4,
+    "NomeBichos_M": "Cobra Urutu Cruzeiro",
+    "DescricaoBichos_M": "Características, alimentação, habitat, curiosidades, foto, hábitos, veneno, réptil, classificação científica, curiosidades",
+    "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/cobra_urutu_cruzeiro.jpg",
+    "LinkBichos_M": "https://www.todabiologia.com/zoologia/urutu_cruzeiro.htm"
+  },
+  {
+    "idBichos_M": 5,
+    "NomeBichos_M": "Cobras Venenosas",
+    "DescricaoBichos_M": "Características das cobras venenosas, cobras peçonhentas, serpentes, princpais cobras venenosas",
+    "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/cobra_coral.JPG",
+    "LinkBichos_M": "https://www.todabiologia.com/zoologia/cobras_venenosas.htm"
+  },
+  {
+    "idBichos_M": 6,
+    "NomeBichos_M": "Cobra Cascavel",
+    "DescricaoBichos_M": "Características, alimentação, habitat, classificação científica, reprodução deste réptil, curiosidades, resumo, veneno e guizo",
+    "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/cobra_cascavel3.jpg",
+    "LinkBichos_M": "https://www.todabiologia.com/zoologia/cobra_cascavel.htm"
+  },
+  {
+    "idBichos_M": 7,
+    "NomeBichos_M": "Cobra-real",
+    "DescricaoBichos_M": "Principais características, reprodução, veneno, habitat, alimentação, classificação científica",
+    "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/cobra_real_foto.jpg",
+    "LinkBichos_M": "https://www.todabiologia.com/zoologia/cobra_real.htm"
+  },
+  {
+    "idBichos_M": 8,
+    "NomeBichos_M": "Fotos de Cobras",
+    "DescricaoBichos_M": "Fotos de várias espécies de cobras, classificação científica, répteis, cobras venenosas",
+    "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/cobra_mamba.jpg",
+    "LinkBichos_M": "https://www.todabiologia.com/zoologia/fotos_cobras.htm"
+  },
+  {
+    "idBichos_M": 9,
+    "NomeBichos_M": "Serpentes",
+    "DescricaoBichos_M": "O que são, características, serpentes venenosas do Brasil, exemplos, répteis, curiosidades, anatomia das serpentes, cobras",
+    "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/serpente.jpg",
+    "LinkBichos_M": "https://www.todabiologia.com/zoologia/serpentes.htm"
   }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 ]
