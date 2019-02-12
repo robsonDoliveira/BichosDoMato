@@ -61,7 +61,31 @@
     "DescricaoBichos_M": "O que são, características, serpentes venenosas do Brasil, exemplos, répteis, curiosidades, anatomia das serpentes, cobras",
     "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/serpente.jpg",
     "LinkBichos_M": "https://www.todabiologia.com/zoologia/serpentes.htm"
+  },
+  {
+    "idBichos_M": 10,
+    "NomeBichos_M": "Aracnologia",
+    "DescricaoBichos_M": "O que estuda, estudo das aranhas, aracnídeos, trabalho do aracnólogo, dificuldades, ramo da Zoologia, bibliografia",
+    "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/aracnologia.gif",
+    "LinkBichos_M": "https://www.todabiologia.com/zoologia/aracnologia.htm"
+  },
+  {
+    "idBichos_M": 11,
+    "NomeBichos_M": "Aranha Armadeira",
+    "DescricaoBichos_M": "Saiba mais sobre a aranha Armadeira, características reprodução, alimentação, hábitat, tamanho, hábitos, comportamento",
+    "ImagemBicho_M": "https://www.todabiologia.com/uploads/site/aranha_armadeira.jpg",
+    "LinkBichos_M": "https://www.todabiologia.com/zoologia/aranha_armadeira.htm"
   }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
